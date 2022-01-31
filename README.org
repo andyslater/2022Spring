@@ -1,4 +1,5 @@
 #+startup: show3levels hideblocks
+slater changes
 
 * STAT 5125: Computing for Statistical Data Science
 
